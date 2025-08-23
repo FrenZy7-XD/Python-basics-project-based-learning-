@@ -1,0 +1,21 @@
+# 📋 Console Task Organiser
+
+A simple Python console app to **add, view, and delete tasks**.  
+Built to practice loops, lists, and user input.
+
+---
+
+## 🚀 Features
+- Add tasks  
+- View tasks  
+- Delete tasks  
+- Exit the app  
+
+---
+
+## 📝 Learnings
+- **While Loop** → keeps the program running until exit.  
+- **For Loop** → iterates over tasks to display them.  
+- **Lists** → store multiple tasks in one variable. different types of list like set and tuple.  
+- `.append()` → add a new task.  
+- `.remove()` / `.pop()` → delete a task.
